@@ -1,0 +1,24 @@
+{
+  "instruments": 87,
+  "stacks": 4,
+  "instrument_types": 10,
+  "io_used": {
+    "AI": 37,
+    "AO": 4,
+    "DI": 32,
+    "DO": 14
+  },
+  "io_installed_with_spare": {
+    "AI": 45,
+    "AO": 5,
+    "DI": 39,
+    "DO": 17
+  },
+  "documents_expected": 20,
+  "documents_received": 18,
+  "tags_without_datasheet": 6,
+  "types_without_datasheet": [
+    "AT"
+  ],
+  "documents_not_approved": 10
+}
